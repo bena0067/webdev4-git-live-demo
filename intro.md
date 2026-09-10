@@ -8,3 +8,5 @@ As you reach the entrance, the front door slowly opens by itself.
 
 **What do you do next?**
 
+
+[Enter the hotel](enter-hotel.md)
