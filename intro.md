@@ -1,10 +1,11 @@
-# The Abandoned Hotel
+Inside the Hotel
+You slowly step through the front door. The lobby is dark and covered in dust. An old chandelier swings slightly above you even though there is no wind.
 
-You and your friends are driving home late at night when your car suddenly breaks down on an empty road. Your phones have no signal, and a heavy storm is getting closer.
+Behind the reception desk, you hear a strange noise coming from somewhere deeper inside the hotel.
 
-In the distance, you notice an old abandoned hotel with one light still glowing from an upstairs window. With nowhere else to go, your group walks toward the hotel hoping to find a phone or somewhere safe to stay until morning.
+You notice a staircase leading upstairs and a dark hallway beside the desk.
 
-As you reach the entrance, the front door slowly opens by itself.
+What will you do?
 
-**What do you do next?**
+[Walk around the hotel](walk-around.md)
 
