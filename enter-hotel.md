@@ -9,3 +9,5 @@ You notice a staircase leading upstairs and a dark hallway beside the desk.
 A cold draft suddenly moves through the lobby, and you hear footsteps above you.
 
 What will you do?
+
+[Search inside the desk](search-desk.md)
