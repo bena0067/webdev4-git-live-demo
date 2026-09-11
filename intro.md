@@ -8,4 +8,5 @@ As you reach the entrance, the front door slowly opens by itself.
 
 **What do you do next?**
 
-[Walk around the hotel and look for another entrance](side-entrance.md)
+[Walk around the hotel](walk-around.md)
+
