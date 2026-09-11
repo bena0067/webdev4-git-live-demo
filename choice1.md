@@ -10,3 +10,5 @@ You are sure you closed it before leaving.
 Then you hear a noise coming from inside the car.
 
 **What do you do next?**
+
+[Check inside the car](check-car.md)
