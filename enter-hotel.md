@@ -6,4 +6,6 @@ Behind the reception desk, you hear a strange noise coming from somewhere deeper
 
 You notice a staircase leading upstairs and a dark hallway beside the desk.
 
+A cold draft suddenly moves through the lobby, and you hear footsteps above you.
+
 What will you do?
